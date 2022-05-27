@@ -36,8 +36,8 @@ Hi, I'm Rutvik Bhimani <img src="https://github.com/oHTGo/oHTGo/blob/main/images
 ## 📈 GitHub Stats
 <br>
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Balwant-Singh-Rathore&show_icons=true&theme=radical" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Balwant-Singh-Rathore&theme=radical" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rutvik-simformsolutions&show_icons=true&theme=radical" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rutvik-simformsolutions&theme=radical" />
 </p>
 
 
